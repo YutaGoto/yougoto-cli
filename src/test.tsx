@@ -12,7 +12,6 @@ test('show selectable list', t => {
   Twitter
   Blog
   GitHub
-  Splatoon2
   さよなら`
   )
 })

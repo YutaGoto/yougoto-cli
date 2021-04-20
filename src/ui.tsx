@@ -4,7 +4,7 @@ import Link from 'ink-link'
 import SelectInput from 'ink-select-input'
 import open from 'open'
 
-import Info from './Info'
+import Info from './info'
 
 interface SelectItem {
   label: string;

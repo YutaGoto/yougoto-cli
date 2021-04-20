@@ -1,6 +1,6 @@
 {
-  "name": "yougoto-",
-  "version": "0.0.0",
+  "name": "yougoto",
+  "version": "0.0.1",
   "license": "MIT",
   "bin": "dist/cli.js",
   "engines": {
@@ -47,6 +47,6 @@
     }
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   }
 }
