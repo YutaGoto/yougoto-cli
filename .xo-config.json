@@ -1,0 +1,5 @@
+{
+  "react/prop-types": "off",
+  "semicolon": false,
+  "space": true
+}
