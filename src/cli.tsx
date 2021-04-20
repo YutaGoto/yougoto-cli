@@ -6,7 +6,7 @@ import App from './ui'
 
 meow(`
 	Usage
-	  $ yougoto-cli
+	  $ yougoto
 `)
 
 render(<App />)

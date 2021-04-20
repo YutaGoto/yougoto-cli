@@ -6,15 +6,15 @@
 ## Install
 
 ```bash
-$ npm install --global yougoto-cli
+$ npm install --global yougoto
 ```
 
 
 ## CLI
 
 ```
-$ yougoto-cli --help
+$ yougoto --help
 
   Usage
-    $ yougoto-cli
+    $ yougoto
 ```
