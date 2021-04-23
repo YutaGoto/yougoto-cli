@@ -2,11 +2,12 @@
 import React from 'react'
 import {render} from 'ink'
 import meow from 'meow'
-import App from './ui'
+
+const App = require('./ui')
 
 meow(`
-	Usage
-	  $ yougoto
+  Usage
+    $ yougoto
 `)
 
 render(<App />)

@@ -9,6 +9,19 @@
 $ npm install --global yougoto
 ```
 
+## show yougoto
+
+```bash
+$ yougoto
+.ごっちの情報が出るかもしれない
+❯ info
+  Twitter
+  Blog
+  GitHub
+  さよなら
+```
+
+and select a title
 
 ## CLI
 
