@@ -1,6 +1,6 @@
 {
   "name": "yougoto",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "bin": "dist/cli.js",
   "engines": {
@@ -13,7 +13,7 @@
     "test": "xo && ava"
   },
   "files": [
-    "dist/cli.js"
+    "dist"
   ],
   "dependencies": {
     "ink": "^3.0.8",
