@@ -69,7 +69,7 @@ const App: FC = () => {
         setInfo(<Link url="https://twitter.com/gggooottto"><Text>Twitter: @gggooottto</Text></Link>)
         break
       case 'Blog':
-        setInfo(<Link url="https://medium.com/@gggooottto"><Text>Medium @gggooottto</Text></Link>)
+        setInfo(<Link url="https://yutagoto.github.io/blog/"><Text>Blog</Text></Link>)
         break
       case 'GitHub':
         /* eslint @typescript-eslint/no-floating-promises: 0 */
